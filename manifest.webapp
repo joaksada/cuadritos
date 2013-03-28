@@ -1,0 +1,19 @@
+﻿{
+	"name": "cuadritos",
+	"description": "juego de cuadritos",
+	"version": "1",
+	"launch_path": "/a/",
+	"orientation": ["portrait"],
+	"icons": {
+		"16": "/a/icon_16.png",
+		"32": "/a/icon_32.png",
+		"128": "/a/icon_128.png"
+	},
+	"developer": {
+		"name": "joaquin",
+		"url": ""
+	},
+	"default_locale": "en",
+	"fullscreen": "true",
+	"appcache_path": "/a/offline.appcache"
+}
